@@ -29,7 +29,3 @@ APK: `app/build/outputs/apk/debug/app-debug.apk`.
 ./gradlew :app:testDebugUnitTest
 ./gradlew :app:connectedDebugAndroidTest
 ```
-
-## Статус
-
-В разработке. Звук — заменяемый плейсхолдер.
