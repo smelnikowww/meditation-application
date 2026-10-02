@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette mirrored for XML usage (window background, splash window). -->
+    <color name="brand_window_background">#FAF7F2</color>
+    <color name="brand_night">#0B0F1A</color>
+    <color name="brand_teal">#6FD6C4</color>
+</resources>
